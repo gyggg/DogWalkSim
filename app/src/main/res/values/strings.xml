@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DogWalkSim</string>
+    <string name="title_home">散歩</string>
+    <string name="title_dashboard">状態</string>
+    <string name="title_notifications">設定</string>
+    <string name="dog_def">໒( ̿･ ᴥ ̿･ )ʋ</string>
+</resources>
